@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/profile.php?id=100010031719211",
+      "permanent": true
+    }
+  ]
+}
